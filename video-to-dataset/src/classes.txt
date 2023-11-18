@@ -1,0 +1,6 @@
+names:
+    0: empty
+    1: Gate
+    2: Lg-Symbol
+    3: Board
+    4: Portal
